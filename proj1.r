@@ -1,4 +1,3 @@
-#File named projl.r
 #Ignacio Porras Vargas (S2742622)
 #Per discussed with instructor, given that all groups were full, I am the sole contributor to this project (Ignacio Porras Vargas -> 100%)
 
